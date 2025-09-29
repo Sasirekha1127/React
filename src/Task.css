@@ -1,0 +1,30 @@
+.table{
+    border-collapse: collapse;
+    margin-top: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+.search{
+    background-color: rgb(42, 42, 234);
+    border:none; 
+    border-radius: 3px;
+    height: 25px;
+    color: white;
+    cursor: pointer;
+}
+.Add{
+    background-color: rgb(19, 163, 196);
+    border: none;
+    height: 25px;
+    color: white;
+    border-radius: 3px;
+    cursor: pointer;
+}
+.remove{
+    background-color: red;
+    border:none;
+    height: 25px;
+    color:white;
+    border-radius: 3px;
+    cursor: pointer;
+}

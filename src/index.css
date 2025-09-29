@@ -1,0 +1,15 @@
+input {
+  border: 2px solid gray;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 4px;
+  outline: none;
+}
+
+input.valid {
+  border-color: green;
+}
+
+input.invalid {
+  border-color: red;
+}
